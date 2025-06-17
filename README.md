@@ -1,4 +1,4 @@
-# real_need_for_racing
+# Bit Racer
 
 A new Flutter project.
 
